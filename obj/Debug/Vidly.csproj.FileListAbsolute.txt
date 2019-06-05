@@ -1,0 +1,188 @@
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\ApplicationInsights.config
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\csc.exe
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\vbc.exe
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Vidly.dll.config
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Vidly.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Vidly.pdb
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Antlr3.Runtime.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\EntityFramework.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.Web.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.ApplicationInsights.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Newtonsoft.Json.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Owin.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.Helpers.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.Mvc.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.Optimization.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.Razor.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\WebGrease.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.Web.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.ApplicationInsights.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.Helpers.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.Mvc.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.Optimization.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.Razor.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Newtonsoft.Json.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\EntityFramework.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.dll
+c:\users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+C:\Users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.Addis.resources
+C:\Users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershiptype.resources
+C:\Users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.Populatemebershiptypes.resources
+C:\Users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationToCustomerName.resources
+C:\Users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNametoMembershipType.resources
+C:\Users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateNameinMebershipTypes.resources
+C:\Users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+C:\Users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovies.resources
+C:\Users\guptar1\documents\visual studio 2015\Projects\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenere.resources
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\ApplicationInsights.config
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\roslyn\csc.exe
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\roslyn\vbc.exe
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Vidly.dll.config
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Vidly.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Vidly.pdb
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\EntityFramework.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.AI.Web.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.ApplicationInsights.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.Owin.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Owin.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\System.Web.Helpers.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\System.Web.Mvc.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\System.Web.Optimization.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\System.Web.Razor.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\System.Web.WebPages.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\WebGrease.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.AI.Web.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.ApplicationInsights.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\System.Web.Helpers.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\System.Web.Mvc.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\System.Web.Optimization.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\System.Web.Razor.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\System.Web.WebPages.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\EntityFramework.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.Owin.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\obj\Debug\Vidly.Migrations.Addis.resources
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershiptype.resources
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\obj\Debug\Vidly.Migrations.Populatemebershiptypes.resources
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationToCustomerName.resources
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNametoMembershipType.resources
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateNameinMebershipTypes.resources
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMovies.resources
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddGenere.resources
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\obj\Debug\Vidly.dll
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\obj\Debug\Vidly.Migrations.abc.resources
+C:\Users\xdhru\Downloads\wetransfer-e9f3ab\Vidly\Vidly\obj\Debug\Vidly.Migrations.abc1.resources
