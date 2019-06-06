@@ -18,7 +18,7 @@ namespace Vidly.Controllers
         // GET: Movie
         public ActionResult Index()
         {
-            var geners = _Context.Movies.Include(m => m.Genre);
+            var geners = _Context.Moves.Include(m => m.Genre);
             //CustomerViewModel customerViewModel = new CustomerViewModel
             //{
             //    Customers = GetCustomers()
@@ -26,15 +26,15 @@ namespace Vidly.Controllers
             return View(geners);
         }
         [HttpPost]
-        public ActionResult Save(Movie movie)
+        public ActionResult Save(Move movie)
         {
             if (movie.Id == 0)
-                _Context.Movies.Add(movie);
+                _Context.Moves.Add(movie);
             else
             {
-                var movieInDb = _Context.Movies.SingleOrDefault(x => x.Id == movie.Id);
+                var movieInDb = _Context.Moves.SingleOrDefault(x => x.Id == movie.Id);
                 //Mapper.Map(customer,customerInDb)
-                movieInDb.Name = movieInDb.Name;
+                movieInDb.Name = movie.Name;
                 movieInDb.NumberInStock = movie.NumberInStock;
                 movieInDb.ReleaseDate = movie.ReleaseDate;
                 movieInDb.GenreId = movie.GenreId;
@@ -44,10 +44,16 @@ namespace Vidly.Controllers
         }
         public ActionResult Details(int id)
         {
-            var movie = _Context.Movies.Include(c => c.Genre).FirstOrDefault(x => x.Id == id);
+            var movie = _Context.Moves.Include(c => c.Genre).FirstOrDefault(x => x.Id == id);
+            var geners = _Context.Geners.ToList();
             if (movie != null)
             {
-                return View(movie);
+                var viewModel = new MovieFormViewModel
+                {
+                    Geners = geners,
+                    Movie= movie
+                };
+                return View("MovieForm", viewModel);
             }
             return HttpNotFound();
         }
@@ -62,7 +68,7 @@ namespace Vidly.Controllers
         }
         public ActionResult Random()
         {
-            var movie = new Movie() { Name = "Rita" };
+            var movie = new Move() { Name = "Rita" };
             //return View(movie);
             //return Content("Hello World");
             //return HttpNotFound();

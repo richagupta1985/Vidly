@@ -9,6 +9,14 @@ namespace Vidly.ViewModel
     public class MovieFormViewModel
     {
         public IEnumerable<Genre> Geners { get; set; }
-        public Movie Movies { get; set; }
+        public Move Movie { get; set; }
+
+        public string Title
+        {
+            get
+            {
+                return Movie.Id != 0 ? "Edit Movie" : "New Movie";
+            }
+        }
     }
 }

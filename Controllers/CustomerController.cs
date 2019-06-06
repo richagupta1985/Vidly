@@ -51,12 +51,25 @@ namespace Vidly.Controllers
         [HttpPost]
         public ActionResult Save(Customer customer)
         {
+            if (!ModelState.IsValid)
+            {
+                if (customer.MembershipType == null)
+                {
+                    customer.MembershipType = _Context.MembershipTypes.FirstOrDefault(x => x.Id == customer.MembershipTypeId);
+                }
+                var viewModel = new CustomerFormViewModel
+                {
+                    MembershipTypes = _Context.MembershipTypes.ToList(),
+                    Customer = customer
+                };
+
+                return View("CustomerForm", viewModel);
+            }
             if (customer.Id == 0)
                 _Context.Customers.Add(customer);
             else
             {
                 var customerInDb = _Context.Customers.SingleOrDefault(x => x.Id == customer.Id);
-                //Mapper.Map(customer,customerInDb)
                 customerInDb.Name = customer.Name;
                 customerInDb.BirthDate = customer.BirthDate;
                 customerInDb.MembershipTypeId = customer.MembershipTypeId;
